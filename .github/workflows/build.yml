@@ -29,7 +29,7 @@ jobs:
         if: ${{ inputs.from_ci }}
         run: |
           if git checkout origin/update build.md; then
-            UPDATE_CFG=$(./build.sh config.toml --config-update)
+            UPDATE_CFG=$( bash build.sh config.toml --config-update)
             if [ "$UPDATE_CFG" ]; then
               echo "$UPDATE_CFG" > config.json
             fi
