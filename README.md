@@ -1,5 +1,5 @@
 # ReVanced Magisk Module
-[![CI](https://github.com/imnathanzero/extended/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
+[![CI](https://github.com/imnathanzero/extended/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/imnathanzero/extended/actions/workflows/ci.yml)
 
 Get the [latest CI release](https://github.com/imnathanzero/extended/releases).
 
