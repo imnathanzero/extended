@@ -1,5 +1,5 @@
 enable-magisk-update = true
-parallel-jobs = $(nproc)
+parallel-jobs = 8
 remove-rv-integrations-checks = true
 
 patches-source = "anddea/revanced-patches"
